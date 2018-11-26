@@ -49,7 +49,7 @@ a.text-gray:focus {
 
 /* Text */
 .text-primary {
-	color: #4dabf7!important;
+	color: #07006B!important;
 }
 .text-secondary {
 	color: #edf7ff!important;
@@ -58,7 +58,7 @@ a.text-gray:focus {
 	color: #384050;
 }
 .text-blue {
-	color: #6D76F7;
+	color: #07006B !important;
 }
 .text-dark-gray {
 	color: #555555;
@@ -95,7 +95,7 @@ a.text-gray:focus {
 
 /* Background */
 .bg-primary {
-	background-color: #4dabf7!important;
+	background-color: #EE9EF5!important;
 }
 .bg-secondary {
 	background-color: #edf7ff!important;
@@ -116,7 +116,7 @@ a.text-gray:focus {
 	background-color: #f3f5f6;
 }
 .bg-light {
-	background-color: #fbfdff!important;
+	background-color: #F9EBD2!important;
 }
 
 /* Form */
@@ -127,15 +127,15 @@ a.text-gray:focus {
 
 /* Button */
 .btn-primary {
-	background-color: #4dabf7;
-	border-color: #4dabf7;
+	background-color: #ffbe00;
+	border-color: #ffbe00;
 	color: #ffffff;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn.btn-primary:not(:disabled):active {
-	background-color: #228be6;
-	border-color: #228be6;
+	background-color: #F1B302;
+	border-color: #F1B302;
 	color: #ffffff;
 }
 .btn-secondary {
